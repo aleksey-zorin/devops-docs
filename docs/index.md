@@ -10,4 +10,3 @@
 2. Pylint проверяет Python-код.
 3. После слияния в `main` MkDocs собирает статический сайт.
 4. GitHub Pages публикует артефакт сборки. Адрес будущего сайта: `https://aleksey-zorin.github.io/devops-docs/`.
-
